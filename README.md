@@ -1,2 +1,2 @@
 # horse_racing
-Horse Racing HK
+Horse Racing Modeling in HongKong!
